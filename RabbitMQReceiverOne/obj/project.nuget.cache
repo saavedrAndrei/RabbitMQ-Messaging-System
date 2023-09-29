@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hD4bnQXyH4r1kKUrnb6k9qq1xBXMwOakiqAW/evim8VPZVB7o44+QA9y6yD8tXoCeJZeXZUf/yj8PJUk7nzLaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asaavedra\\Documents\\Software\\RabbitMQ\\RabbitMQReceiverOne\\RabbitMQReceiverOne.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asaavedra\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\asaavedra\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\asaavedra\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
